@@ -1,5 +1,4 @@
 rich
 requests
 user_agent
-concurrent.futures
 telebot
