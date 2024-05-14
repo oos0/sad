@@ -1,7 +1,6 @@
 rich
 requests
 user_agent
-time
 hashlib
 random
 concurrent.futures
